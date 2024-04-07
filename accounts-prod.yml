@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to LokeshBank accounts related prod APIs"
+  contactDetails:
+    name: "Rakesh - Product Owner"
+    email: "rakesh@lokeshbank.com"
+  onCallSupport:
+    -(666) 666-9696
+    -(666) 666-9496

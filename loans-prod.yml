@@ -1,0 +1,11 @@
+build:
+  version: "1.3"
+
+loans:
+  message: "Welcome to LokeshBank loans related prod APIs"
+  contactDetails:
+    name: "Rakesh - Product Owner"
+    email: "rakesk@lokeshbank.com"
+  onCallSupport:
+    - (666) 666-9696
+    - (666) 666-9496

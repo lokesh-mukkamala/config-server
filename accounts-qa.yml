@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to LokeshBank accounts related QA APIs"
+  contactDetails:
+    name: "Suji - QA Lead"
+    email: "suji@lokeshbank.com"
+  onCallSupport:
+    -(444) 444-1234
+    -(444) 444-5678
