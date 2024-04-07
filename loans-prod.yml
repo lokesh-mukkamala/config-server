@@ -2,7 +2,7 @@ build:
   version: "1.3"
 
 loans:
-  message: "Welcome to LokeshBank loans related prod APIs"
+  message: "Welcome to LokeshBank loans related production APIs"
   contactDetails:
     name: "Rakesh - Product Owner"
     email: "rakesk@lokeshbank.com"
