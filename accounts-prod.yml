@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to LokeshBank accounts related production APIs"
+  message: "Welcome to LokeshBank accounts related prod APIs"
   contactDetails:
     name: "Rakesh - Product Owner"
     email: "{cipher}bd60be859eac3bff5e02c7e651f50d26ea235eb88d4442df2fdcc038b73e9d5c7a66ce7800b63622f51fb8301240294c"
