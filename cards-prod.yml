@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to LokeshBank cards related webhook APIs"
+  message: "Welcome to LokeshBank cards related webhook-test APIs"
   contactDetails:
     name: "Rakesh - Product Owner"
     email: "rakesk@lokeshbank.com"
